@@ -2,6 +2,8 @@
  A simple XML Editor in C#. Written using Visual Studio 2017. Windows Forms used for 
  GUI.
  
+### Download: [ResaRf's XML Wizard](https://github.com/aeris170/XMLWizard/raw/master/XMLWizard/bin/Release/Wizard.exe)
+ 
 ## Features:
   * Lightweight (ONLY 677 KB!)
   * Ability to add child nodes in a structurally manner
@@ -10,14 +12,14 @@
   * Ability to save to *.XML
   * Ability to change the appearance of nodes in application
   
-##Controls:
+## Controls:
   * Controls are very simple.
   * Double-click node to expand/collapse
   * Press F2 on node to Rename
   * Right click on node to open Context Menu
   * You can do all of these from the `PropertyGrid` control on the right too.
     
-##Technical Details:
+## Technical Details:
   * Uses `XmlReader` and `XmlDocument` to read nodes from .XML file as a `NodeTree`
   * Uses `XmlDocument` to save nodes to .XML file as a `NodeTree`
   * Uses a `TreeView` control to browse XML Content
