@@ -1,0 +1,10 @@
+C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Wizard.exe.config
+C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Wizard.exe
+C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Wizard.pdb
+C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Window.resources
+C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Wizard.Properties.Resources.resources
+C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ResaRfsXMLWizard.csproj.GenerateResource.cache
+C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ResaRfsXMLWizard.csproj.CoreCompileInputs.cache
+C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Wizard.exe
+C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Wizard.pdb
+C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ResaRfsXMLWizard.csprojAssemblyReference.cache
