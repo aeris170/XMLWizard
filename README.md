@@ -7,7 +7,7 @@
 ## Features:
   * Lightweight (ONLY 677 KB!)
   * Ability to add child nodes in a structurally manner
-  * Ability to add text (#PCDATA) to existing nodes
+  * Ability to add text `(#PCDATA)` to existing nodes
   * Ability to load from *.XML to program
   * Ability to save to *.XML
   * Ability to change the appearance of nodes in application
