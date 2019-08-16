@@ -1,4 +1,5 @@
 # ResaRf's XML Wizard
+![social](https://repository-images.githubusercontent.com/202208517/9e418800-be1b-11e9-9eb8-59084aebb7bb)
  A simple XML Editor in C#. Written using Visual Studio 2017. Windows Forms used for 
  GUI.
  
