@@ -8,3 +8,13 @@ C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ResaRfsX
 C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Wizard.exe
 C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Wizard.pdb
 C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ResaRfsXMLWizard.csprojAssemblyReference.cache
+D:\VisualStudioProjects\XMLWizard\XMLWizard\bin\Debug\Wizard.exe.config
+D:\VisualStudioProjects\XMLWizard\XMLWizard\bin\Debug\Wizard.exe
+D:\VisualStudioProjects\XMLWizard\XMLWizard\bin\Debug\Wizard.pdb
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Debug\ResaRfsXMLWizard.csprojAssemblyReference.cache
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Debug\Wizard.Properties.Resources.resources
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Debug\ResaRfsXMLWizard.csproj.GenerateResource.cache
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Debug\ResaRfsXMLWizard.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Debug\Wizard.exe
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Debug\Wizard.pdb
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Debug\Wizard.Window.resources

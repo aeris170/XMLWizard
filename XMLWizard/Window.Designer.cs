@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace Wizard
 {
     partial class Window
     {
@@ -16,7 +16,7 @@ namespace WindowsFormsApp1
         private MenuItem OpenMenuItem;
         private MenuItem SaveMenuItem;
         private MenuItem ExitMenuItem;
-        
+
         private OpenFileDialog FileChooser;
         private SaveFileDialog FileSaver;
 
@@ -421,7 +421,7 @@ namespace WindowsFormsApp1
 
         }
         #endregion
-        
+
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))

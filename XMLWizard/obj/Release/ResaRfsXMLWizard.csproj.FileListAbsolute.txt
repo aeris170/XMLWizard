@@ -8,3 +8,13 @@ C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\ResaRf
 C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\ResaRfsXMLWizard.csproj.CoreCompileInputs.cache
 C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Wizard.exe
 C:\Users\Doga\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Wizard.pdb
+D:\VisualStudioProjects\XMLWizard\XMLWizard\bin\Release\Wizard.exe.config
+D:\VisualStudioProjects\XMLWizard\XMLWizard\bin\Release\Wizard.exe
+D:\VisualStudioProjects\XMLWizard\XMLWizard\bin\Release\Wizard.pdb
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Release\ResaRfsXMLWizard.csprojAssemblyReference.cache
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Release\WindowsFormsApp1.Window.resources
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Release\Wizard.Properties.Resources.resources
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Release\ResaRfsXMLWizard.csproj.GenerateResource.cache
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Release\ResaRfsXMLWizard.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Release\Wizard.exe
+D:\VisualStudioProjects\XMLWizard\XMLWizard\obj\Release\Wizard.pdb

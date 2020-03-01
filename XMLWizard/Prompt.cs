@@ -1,13 +1,12 @@
 ﻿using System.Windows.Forms;
 
-namespace Wizard
-{
-    public static class RenamePrompt
-    {
-        public static string ShowDialog()
-        {
-            Form prompt = new Form()
-            {
+namespace Wizard {
+
+    public static class RenamePrompt  {
+
+        public static string ShowDialog() {
+
+            Form prompt = new Form() {
                 Height = 165,
                 FormBorderStyle = FormBorderStyle.FixedDialog,
                 Text = "Rename Node",
